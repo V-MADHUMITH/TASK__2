@@ -65,5 +65,13 @@ Successfully created and confirmed alarm setup with:
 
 ->OUTPUT
 
+<img width="1233" height="767" alt="Image" src="https://github.com/user-attachments/assets/886fe946-9f8c-4730-9dbe-78e35cfcd3d0" />
+
+<img width="1580" height="306" alt="Image" src="https://github.com/user-attachments/assets/92574368-93e7-4c6d-8e13-fb9ac97a2ef9" />
+
+<img width="981" height="856" alt="Image" src="https://github.com/user-attachments/assets/46990d8c-0b34-43d6-bf23-1c8a983d38ae" />
+
+<img width="1554" height="384" alt="Image" src="https://github.com/user-attachments/assets/48fc2333-0db3-4a84-a086-c8037d887927" />
+
 
 
